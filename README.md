@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **kaushikabhishek77/kaushikabhishek77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! This is Abhishek Kaushik.
 
 I am a data-driven professional with B.E. in Electronics and Communication Engineering from Netaji Subhas Institute of Technology and have experiences in Government Advisory and Analytics industry. I have cleared CFA L3. With expertise in data visualization, financial and statistical analysis, and problem-solving, I strive to bring value to organizations by uncovering trends that impact growth. 
 
