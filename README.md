@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Data Analytics background with name Abhishek Kaushik](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+
 Hi! This is Abhishek Kaushik.
 
 I am a data-driven professional with B.E. in Electronics and Communication Engineering from Netaji Subhas Institute of Technology and have experiences in Government Advisory and Analytics industry. I have cleared CFA L3. With expertise in data visualization, financial and statistical analysis, and problem-solving, I strive to bring value to organizations by uncovering trends that impact growth. 
@@ -26,4 +28,5 @@ Advanced proficiency in Excel, SQL, Python, and data visualization tools like Po
 I am always eager to enhance my skillset and be on the learning curve. 
 
 Feel free to drop mail for opportunities in Analytics, Finance, Investment Management and Consulting.
+
 Email Id - kaushikabhishek77@gmail.com
